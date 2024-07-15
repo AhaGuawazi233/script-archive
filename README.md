@@ -1,4 +1,4 @@
-# Guawazi233's script achieve
+# Guawazi233's script achive
 
 Here is some script that I use in my study and work. It is very useful and saving a lot of effect, then I share them here.
 
